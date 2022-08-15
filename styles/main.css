@@ -101,7 +101,7 @@ a {
 
 #socials--list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     column-gap: 1em;
     flex-wrap: wrap;
 }
